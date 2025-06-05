@@ -1,0 +1,12 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Any other global styles can go below */
+body {
+  margin: 0;
+  /* ... other CRA default styles or your custom global styles */
+  background-color: #0f172a; /* Example: slate-900 */
+  color: #f1f5f9; /* Example: slate-100 */
+}
